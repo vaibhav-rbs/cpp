@@ -1,7 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int doubleDigitBalu(int digit)
-{
-    
+int doubleDigitValue(int digit){
+    int doubleDigit = digit*2a;
+    int sum;
+    if (doubleDigit > 10){
+    sum = 1+doubleDigit 
+    }
 }
