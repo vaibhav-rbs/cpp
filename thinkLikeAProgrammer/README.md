@@ -1,1 +1,0 @@
-DEVELOPING C++ concepts
