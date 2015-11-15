@@ -1,0 +1,2 @@
+1) always checkout master, when creating new branch.
+2) always git merge from penultimate branch.
