@@ -12,6 +12,9 @@ ex4:
 	rm -rf ex4
 	cc  -Wall -g ex4.c -o ex4
 
+ex5:
+	rm -rf ex5
+	cc  -Wall -g ex5.c -o ex5
 clean:
 	rm -rf ex1
 	rm -rf ex3
