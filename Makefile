@@ -23,6 +23,9 @@ ex6:
 ex7:
 	rm -rf ex7
 	cc  -Wall -g ex7.c -o ex7
+ex8:
+	rm -rf ex8
+	cc  -Wall -g ex8.c -o ex8
 clean:
 	rm -rf ex1
 	rm -rf ex3
